@@ -36,9 +36,7 @@ MIRURO
 
 | Official Domains | Links                                      |
 | ---------------- | ------------------------------------------ |
-| Hub              | [miruro.com](https://www.miruro.com)       |
-| TV               | [miruro.tv](https://www.miruro.tv)         |
-| Online           | [miruro.online](https://www.miruro.online) |
+| XYZ               | [helloanime.fun](https://www.helloanime.fun)         |
 
 </div>
 
